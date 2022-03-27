@@ -230,7 +230,9 @@
     header nav ul li a {
       font-size: 20px;
     }
-    
+    .about p {
+        font-size: 2.3vw;
+    }
     .about img {
         max-width: 25%;
     }
