@@ -208,10 +208,6 @@
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
 
-    .about img {
-        max-width: 25%;
-    }
-
     header {
       padding-bottom: 0;
       justify-content: center;
@@ -233,6 +229,10 @@
 
     header nav ul li a {
       font-size: 20px;
+    }
+    
+    .about img {
+        max-width: 25%;
     }
 }
 
