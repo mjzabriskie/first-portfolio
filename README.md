@@ -13,7 +13,7 @@ I needed a way to show my work to prospective clients, so I created a portfolio 
 
 ## Credits
 * Photo of multi-colored board featured in the hero section was taken by <a href="https://unsplash.com/@rmallick6806?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ray Mallick</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Color scheme obtained from the Color Palette Generator at <a href = "https://www.canva.com/colors/color-palette-generator/">canva.com</a>
+* Color scheme obtained from the free color palettes at <a href = "https://www.canva.com/colors/color-palettes/window-tide/">canva.com</a>
 
 
 
